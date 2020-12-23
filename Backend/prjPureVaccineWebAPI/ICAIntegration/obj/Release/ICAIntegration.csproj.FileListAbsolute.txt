@@ -1,9 +1,0 @@
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.csprojAssemblyReference.cache
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.csproj.CoreCompileInputs.cache
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Release\ICAIntegration.dll.config
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Release\ICAIntegration.dll
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Release\ICAIntegration.pdb
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Release\MessageIntegrity.dll
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.csproj.CopyComplete
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.dll
-D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.pdb

@@ -1,9 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Debug\ICAIntegration.dll.config
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Debug\ICAIntegration.dll
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Debug\ICAIntegration.pdb
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Debug\MessageIntegrity.dll
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Debug\ICAIntegration.csprojAssemblyReference.cache
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Debug\ICAIntegration.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Debug\ICAIntegration.csproj.CopyComplete
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Debug\ICAIntegration.dll
-C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Debug\ICAIntegration.pdb
