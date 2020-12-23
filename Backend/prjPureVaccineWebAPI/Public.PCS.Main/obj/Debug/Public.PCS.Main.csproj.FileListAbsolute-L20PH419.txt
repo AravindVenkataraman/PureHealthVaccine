@@ -1,0 +1,11 @@
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\bin\Debug\Public.PCS.Main.dll.config
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\bin\Debug\Public.PCS.Main.dll
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\bin\Debug\Public.PCS.Main.pdb
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\bin\Debug\Public.Library.ErrorHandeling.dll
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\bin\Debug\Public.Library.ErrorHandeling.pdb
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\bin\Debug\Public.Library.ErrorHandeling.dll.config
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.csprojAssemblyReference.cache
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.csproj.CoreCompileInputs.cache
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.csproj.CopyComplete
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.dll
+D:\OneDrive - PUREHEALTH\Source\PCSCOVID19API\COVID19ResultsWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.pdb

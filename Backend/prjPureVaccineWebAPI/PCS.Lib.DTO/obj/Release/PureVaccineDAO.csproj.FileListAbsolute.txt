@@ -1,0 +1,15 @@
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\PureVaccineDAO.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\PureVaccineDAO.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\DataEntityModel.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\Public.Library.ErrorHandeling.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\Public.PCS.Main.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\DataEntityModel.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\Public.Library.ErrorHandeling.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\Public.Library.ErrorHandeling.dll.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\Public.PCS.Main.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Release\Public.PCS.Main.dll.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Release\PureVaccineDAO.csprojAssemblyReference.cache
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Release\PureVaccineDAO.csproj.CoreCompileInputs.cache
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Release\PureVaccineDAO.csproj.CopyComplete
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Release\PureVaccineDAO.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Release\PureVaccineDAO.pdb

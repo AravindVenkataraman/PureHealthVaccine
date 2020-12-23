@@ -1,0 +1,6 @@
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Release\DataEntityModel.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Release\DataEntityModel.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.csprojAssemblyReference.cache
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.csproj.CoreCompileInputs.cache
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.pdb
