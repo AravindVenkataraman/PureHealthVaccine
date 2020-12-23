@@ -1,0 +1,6 @@
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\PCS.Lib.DTO.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\PCS.Lib.DTO.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PCS.Lib.DTO.csprojAssemblyReference.cache
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PCS.Lib.DTO.csproj.CoreCompileInputs.cache
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PCS.Lib.DTO.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PCS.Lib.DTO.pdb

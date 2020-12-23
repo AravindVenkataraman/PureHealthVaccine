@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Debug\Public.PCS.Main.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Debug\Public.PCS.Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Debug\Public.PCS.Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Debug\Public.Library.ErrorHandeling.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Debug\Public.Library.ErrorHandeling.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Debug\Public.Library.ErrorHandeling.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Debug\Public.PCS.Main.pdb
