@@ -417,6 +417,131 @@
           }
         }
       }
+    },
+    "deo-nurse": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        }
+      },
+      "root": "projects/deo-nurse",
+      "sourceRoot": "projects/deo-nurse/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/deo-nurse",
+            "index": "projects/deo-nurse/src/index.html",
+            "main": "projects/deo-nurse/src/main.ts",
+            "polyfills": "projects/deo-nurse/src/polyfills.ts",
+            "tsConfig": "projects/deo-nurse/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/deo-nurse/src/favicon.ico",
+              "projects/deo-nurse/src/assets"
+            ],
+            "styles": [
+              "projects/deo-nurse/src/styles.scss"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/deo-nurse/src/environments/environment.ts",
+                  "with": "projects/deo-nurse/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true
+            },
+            "dev": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/deo-nurse/src/environments/environment.ts",
+                  "with": "projects/deo-nurse/src/environments/environment.dev.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "deo-nurse:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "deo-nurse:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "deo-nurse:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/deo-nurse/src/test.ts",
+            "polyfills": "projects/deo-nurse/src/polyfills.ts",
+            "tsConfig": "projects/deo-nurse/tsconfig.spec.json",
+            "karmaConfig": "projects/deo-nurse/karma.conf.js",
+            "assets": [
+              "projects/deo-nurse/src/favicon.ico",
+              "projects/deo-nurse/src/assets"
+            ],
+            "styles": [
+              "projects/deo-nurse/src/styles.scss"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/deo-nurse/tsconfig.app.json",
+              "projects/deo-nurse/tsconfig.spec.json",
+              "projects/deo-nurse/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/deo-nurse/e2e/protractor.conf.js",
+            "devServerTarget": "deo-nurse:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "deo-nurse:serve:production"
+            }
+          }
+        }
+      }
     }},
   "cli": {
     "analytics": false

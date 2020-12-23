@@ -4,10 +4,9 @@
   "scripts": {
     "ng": "ng",
     "start:registration": "ng serve --project=registration",
-    "start:deo": "ng serve --project=deo",
-    "start:nursing": "ng serve --project=nursing",
-    "build": "ng build registration --aot --configuration=production --baseHref /registration/ && ng build deo --aot --configuration=production --baseHref /deo/ && ng build nursing --aot --configuration=production --baseHref /nursing/",
-    "build:dev": "ng build registration --aot --configuration=dev --baseHref /registration/ && ng build deo --aot --configuration=dev --baseHref /deo/ && ng build nursing --aot --configuration=dev --baseHref /nursing/",
+    "start:deo_nursing": "ng serve --project=deo-nursing",
+    "build": "ng build registration --aot --configuration=production --baseHref /registration/ && ng build deo-nursing --aot --configuration=production --baseHref /deo-nursing/",
+    "build:dev": "ng build registration --aot --configuration=dev --baseHref /registration/ && ng build deo-nursing --aot --configuration=dev --baseHref /deo-nursing/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
