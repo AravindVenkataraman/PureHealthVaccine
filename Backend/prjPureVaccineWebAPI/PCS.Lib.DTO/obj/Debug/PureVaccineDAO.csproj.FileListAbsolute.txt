@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\PureVaccineDAO.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\PureVaccineDAO.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\DataEntityModel.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\Public.Library.ErrorHandeling.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\Public.PCS.Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\DataEntityModel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\Public.Library.ErrorHandeling.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\Public.Library.ErrorHandeling.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\Public.PCS.Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\bin\Debug\Public.PCS.Main.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PureVaccineDAO.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PureVaccineDAO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PureVaccineDAO.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PureVaccineDAO.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PCS.Lib.DTO\obj\Debug\PureVaccineDAO.pdb
