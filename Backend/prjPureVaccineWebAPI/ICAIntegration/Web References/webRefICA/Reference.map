@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///D:/OneDrive - PUREHEALTH/Source/ICA API/PURE_HEALTH/PURE_HEALTH/Service Contract/CommonTypes.xsd" filename="CommonTypes.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///D:/OneDrive - PUREHEALTH/Source/ICA API/PURE_HEALTH/PURE_HEALTH/Service Contract/PersonProfileEnquiry.xsd" filename="PersonProfileEnquiry.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="file:///D:/OneDrive - PUREHEALTH/Source/ICA API/PURE_HEALTH/PURE_HEALTH/Service Contract/PersonProfileEnquiryService.wsdl" filename="PersonProfileEnquiryService.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="file:///D:/OneDrive - PUREHEALTH/Source/ICA API/PURE_HEALTH/PURE_HEALTH/Service Contract/PersonProfileEnquiryService.xsd" filename="PersonProfileEnquiryService.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>

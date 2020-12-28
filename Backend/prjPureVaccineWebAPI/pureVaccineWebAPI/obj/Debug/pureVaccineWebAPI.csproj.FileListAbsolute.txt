@@ -1,3 +1,189 @@
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csc.exe
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csc.exe.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csc.rsp
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csi.exe
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csi.rsp
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.AppContext.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\vbc.exe
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\vbc.exe.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\vbc.rsp
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\VBCSCompiler.exe
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Antlr3.Runtime.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\DataEntityModel.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\ICAIntegration.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Newtonsoft.Json.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Owin.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PatientMessenger.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.Library.ErrorHandeling.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PureVaccineDAO.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Swashbuckle.Core.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Net.Http.Formatting.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Cors.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Helpers.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.Cors.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.WebHost.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Mvc.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Optimization.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Razor.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Razor.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\WebActivatorEx.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\WebGrease.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\MessageIntegrity.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\SendGrid.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.PCS.Main.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Threading.Tasks.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\StarkbankEcdsa.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\DataEntityModel.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.Library.ErrorHandeling.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.Library.ErrorHandeling.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\ICAIntegration.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\ICAIntegration.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PatientMessenger.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PatientMessenger.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PureVaccineDAO.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.Cors.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Newtonsoft.Json.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Net.Http.Formatting.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Helpers.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.WebHost.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Mvc.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Optimization.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Razor.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Razor.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Antlr3.Runtime.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\SendGrid.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\SendGrid.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.PCS.Main.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.PCS.Main.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Threading.Tasks.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.csprojAssemblyReference.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.csproj.CoreCompileInputs.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.csproj.CopyComplete
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.dll.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csc.exe
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csc.exe.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csc.rsp
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csi.exe
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\csi.rsp
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.AppContext.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\vbc.exe
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\vbc.exe.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\vbc.rsp
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Antlr3.Runtime.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\DataEntityModel.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\ICAIntegration.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Newtonsoft.Json.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Owin.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PatientMessenger.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.Library.ErrorHandeling.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PureVaccineDAO.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Swashbuckle.Core.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Net.Http.Formatting.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Cors.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Helpers.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.Cors.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.WebHost.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Mvc.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Optimization.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Razor.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\WebActivatorEx.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\WebGrease.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\MessageIntegrity.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\SendGrid.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.PCS.Main.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Threading.Tasks.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\StarkbankEcdsa.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\DataEntityModel.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.Library.ErrorHandeling.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.Library.ErrorHandeling.dll.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\ICAIntegration.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\ICAIntegration.dll.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PatientMessenger.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PatientMessenger.dll.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PureVaccineDAO.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.Cors.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Newtonsoft.Json.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Net.Http.Formatting.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Helpers.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Http.WebHost.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Mvc.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Optimization.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Razor.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Antlr3.Runtime.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\SendGrid.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\SendGrid.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.PCS.Main.pdb
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.PCS.Main.dll.config
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Threading.Tasks.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.csprojAssemblyReference.cache
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.csproj.CoreCompileInputs.cache
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.csproj.CopyComplete
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.dll
+D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\obj\Debug\pureVaccineWebAPI.pdb
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.dll.config
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\pureVaccineWebAPI.pdb
@@ -33,9 +219,11 @@ C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prj
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Owin.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PatientMessenger.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Public.Library.ErrorHandeling.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\PureVaccineDAO.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\Swashbuckle.Core.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Net.Http.Formatting.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Cors.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.Helpers.dll
@@ -48,6 +236,7 @@ C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prj
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Deployment.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\WebActivatorEx.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\WebGrease.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\MessageIntegrity.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\pureVaccineWebAPI\bin\SendGrid.dll

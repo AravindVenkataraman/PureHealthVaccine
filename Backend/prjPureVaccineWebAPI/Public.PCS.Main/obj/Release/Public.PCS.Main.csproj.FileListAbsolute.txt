@@ -20,3 +20,25 @@ D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PC
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.csproj.CopyComplete
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.dll
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.PCS.Main.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.PCS.Main.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.PCS.Main.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.Library.ErrorHandeling.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.Library.ErrorHandeling.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.Library.ErrorHandeling.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.csprojAssemblyReference.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.csproj.CoreCompileInputs.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.csproj.CopyComplete
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.PCS.Main.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.PCS.Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.PCS.Main.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.Library.ErrorHandeling.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.Library.ErrorHandeling.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\bin\Release\Public.Library.ErrorHandeling.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\Public.PCS.Main\obj\Release\Public.PCS.Main.pdb

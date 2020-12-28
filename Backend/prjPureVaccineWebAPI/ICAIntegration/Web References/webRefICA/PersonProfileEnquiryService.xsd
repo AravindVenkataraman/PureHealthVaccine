@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:enqTvl="http://id.gov.ae/schema/enquiry/profile" xmlns:tns="http://id.gov.ae/ws/enquiry/profile" elementFormDefault="qualified" targetNamespace="http://id.gov.ae/ws/enquiry/profile" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:import schemaLocation="PersonProfileEnquiry.xsd" namespace="http://id.gov.ae/schema/enquiry/profile" />
+  <xsd:element name="getPersonProfilePhoto" type="enqTvl:GetPersonProfilePhotoRequestType" />
+  <xsd:element name="getPersonProfilePhotoResponse" type="enqTvl:GetPersonProfilePhotoResponseType" />
+  <xsd:element name="getPersonProfileInfo" type="enqTvl:GetPersonProfileInfoRequestType" />
+  <xsd:element name="getPersonProfileInfoResponse" type="enqTvl:GetPersonProfileInfoResponseType" />
+  <xsd:element name="getPersonStats" type="enqTvl:GetPersonStatsRequestType" />
+  <xsd:element name="getPersonStatsResponse" type="enqTvl:GetPersonStatsResponseType" />
+  <xsd:element name="fault" type="enqTvl:FaultType" />
+</xsd:schema>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://id.gov.ae/ws/enquiry/profile" name="PersonProfileEnquiryService" targetNamespace="http://id.gov.ae/ws/enquiry/profile" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:documentation>
+    <wsdl:appinfo source="WMQI_APPINFO">
+      <MRWSDLAppInfo imported="true">
+        <binding hasEncoding="false" imported="true" name="PersonProfileEnquiryHttpBinding" originalBindingStyle="document" />
+        <generatedXSD location="PersonProfileEnquiryService.xsd" />
+      </MRWSDLAppInfo>
+    </wsdl:appinfo>
+  </wsdl:documentation>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://id.gov.ae/ws/enquiry/profile">
+      <xsd:include schemaLocation="PersonProfileEnquiryService.xsd" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="getPersonProfilePhotoRequestMsg">
+    <wsdl:part name="getPersonProfilePhoto" element="tns:getPersonProfilePhoto" />
+  </wsdl:message>
+  <wsdl:message name="getPersonProfilePhotoResponseMsg">
+    <wsdl:part name="getPersonProfilePhotoResponse" element="tns:getPersonProfilePhotoResponse" />
+  </wsdl:message>
+  <wsdl:message name="fault">
+    <wsdl:part name="parameters" element="tns:fault" />
+  </wsdl:message>
+  <wsdl:message name="getPersonProfileInfoRequestMsg">
+    <wsdl:part name="getPersonProfileInfo" element="tns:getPersonProfileInfo" />
+  </wsdl:message>
+  <wsdl:message name="getPersonProfileInfoResponseMsg">
+    <wsdl:part name="getPersonProfileInfoResponse" element="tns:getPersonProfileInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="getPersonStatsRequestMsg">
+    <wsdl:part name="getPersonStats" element="tns:getPersonStats" />
+  </wsdl:message>
+  <wsdl:message name="getPersonStatsResponseMsg">
+    <wsdl:part name="getPersonStatsResponse" element="tns:getPersonStatsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="PersonProfileEnquiryService">
+    <wsdl:operation name="getPersonProfilePhoto">
+      <wsdl:input name="getPersonProfilePhotoRequest" message="tns:getPersonProfilePhotoRequestMsg" />
+      <wsdl:output name="getPersonProfilePhotoResponse" message="tns:getPersonProfilePhotoResponseMsg" />
+      <wsdl:fault name="fault" message="tns:fault" />
+    </wsdl:operation>
+    <wsdl:operation name="getPersonProfileInfo">
+      <wsdl:input name="getPersonProfileInfoRequest" message="tns:getPersonProfileInfoRequestMsg" />
+      <wsdl:output name="getPersonProfileInfoResponse" message="tns:getPersonProfileInfoResponseMsg" />
+      <wsdl:fault name="fault" message="tns:fault" />
+    </wsdl:operation>
+    <wsdl:operation name="getPersonStats">
+      <wsdl:input name="getPersonStatsRequest" message="tns:getPersonStatsRequestMsg" />
+      <wsdl:output name="getPersonStatsResponse" message="tns:getPersonStatsResponseMsg" />
+      <wsdl:fault name="fault" message="tns:fault" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PersonProfileEnquiryHttpBinding" type="tns:PersonProfileEnquiryService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getPersonProfilePhoto">
+      <soap:operation soapAction="http://id.gov.ae/ws/enquiry/profile/getPersonPhoto" />
+      <wsdl:input name="getPersonProfilePhotoRequest">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getPersonProfilePhotoResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPersonProfileInfo">
+      <soap:operation soapAction="http://id.gov.ae/ws/enquiry/profile/getPersonInfo" />
+      <wsdl:input name="getPersonProfileInfoRequest">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getPersonProfileInfoResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getPersonStats">
+      <soap:operation soapAction="http://id.gov.ae/ws/enquiry/profile/getPersonStats" />
+      <wsdl:input name="getPersonStatsRequest">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="getPersonStatsResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PersonProfileEnquiryHttpService">
+    <wsdl:port name="PersonProfileEnquiryHttpPort" binding="tns:PersonProfileEnquiryHttpBinding">
+      <soap:address location="http://localhost:7800/ws/enquiry/profile/PersonProfileEnquiryService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

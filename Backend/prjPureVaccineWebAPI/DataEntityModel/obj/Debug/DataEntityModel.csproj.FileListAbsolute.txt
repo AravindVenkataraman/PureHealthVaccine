@@ -1,5 +1,12 @@
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Debug\DataEntityModel.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Debug\DataEntityModel.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Debug\DataEntityModel.csprojAssemblyReference.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Debug\DataEntityModel.csproj.CoreCompileInputs.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Debug\DataEntityModel.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Debug\DataEntityModel.pdb
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Debug\DataEntityModel.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Debug\DataEntityModel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Debug\DataEntityModel.csprojAssemblyReference.cache
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Debug\DataEntityModel.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Debug\DataEntityModel.dll
 C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Debug\DataEntityModel.pdb

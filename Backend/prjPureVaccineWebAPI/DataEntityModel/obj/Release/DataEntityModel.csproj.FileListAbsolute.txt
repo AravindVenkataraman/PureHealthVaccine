@@ -4,3 +4,15 @@ D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntit
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.csproj.CoreCompileInputs.cache
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.dll
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Release\DataEntityModel.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Release\DataEntityModel.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.csprojAssemblyReference.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.csproj.CoreCompileInputs.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Release\DataEntityModel.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\bin\Release\DataEntityModel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\DataEntityModel\obj\Release\DataEntityModel.pdb

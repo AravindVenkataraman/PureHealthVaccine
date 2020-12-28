@@ -7,3 +7,12 @@ D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegr
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.csproj.CopyComplete
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.dll
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Release\ICAIntegration.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Release\ICAIntegration.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Release\ICAIntegration.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\bin\Release\MessageIntegrity.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\ICAIntegration\obj\Release\ICAIntegration.pdb

@@ -26,3 +26,59 @@ D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMe
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csproj.CopyComplete
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.dll
 D:\OneDrive - PUREHEALTH\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\PatientMessenger.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\PatientMessenger.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\PatientMessenger.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Newtonsoft.Json.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Public.Library.ErrorHandeling.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\SendGrid.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\StarkbankEcdsa.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\System.Net.Http.Extensions.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\System.Net.Http.Primitives.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Public.Library.ErrorHandeling.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Public.Library.ErrorHandeling.dll.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Newtonsoft.Json.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\SendGrid.pdb
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\SendGrid.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\System.Net.Http.Extensions.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\System.Net.Http.Primitives.xml
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csproj.App.config
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csprojAssemblyReference.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csproj.CoreCompileInputs.cache
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csproj.CopyComplete
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.dll
+D:\PureVaccination\prjPureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\PatientMessenger.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\PatientMessenger.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\PatientMessenger.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Public.Library.ErrorHandeling.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\SendGrid.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\StarkbankEcdsa.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Public.Library.ErrorHandeling.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Public.Library.ErrorHandeling.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\SendGrid.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\SendGrid.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.dll
+C:\Users\Administrator\Documents\Visual Studio 2019\Source\PureVaccineWebAPI\prjPureVaccineWebAPI\PatientMessanger\obj\Release\PatientMessenger.pdb
